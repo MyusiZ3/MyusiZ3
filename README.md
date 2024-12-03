@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MyusiZ3
+- 👋 Hi, I’m Muhamad Sidik
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C# and Game UI design
 - 😄 Pronouns: He/Him
