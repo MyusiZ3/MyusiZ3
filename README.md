@@ -2,7 +2,7 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyusiZ3&theme=dark&card_width=401&card_height=170)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyusiZ3&theme=dark&card_width=465&card_height=195)](https://git.io/streak-stats)
 ![Myusi's GitHub stats](https://github-readme-stats.vercel.app/api?username=myusiz3&show_icons=true&theme=radical)
 
 
