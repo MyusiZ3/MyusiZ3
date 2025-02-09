@@ -28,3 +28,6 @@
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
 </p>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/myusiz3/github-readme-stats)
