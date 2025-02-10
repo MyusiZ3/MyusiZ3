@@ -2,7 +2,7 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyusiZ3&theme=dark&card_width=465&card_height=195)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyusiZ3&theme=dark&border_radius=4.9&card_width=465&card_height=196)](https://git.io/streak-stats)
 ![Myusi's GitHub stats](https://github-readme-stats.vercel.app/api?username=myusiz3&show_icons=true&theme=radical)
 
 
@@ -22,8 +22,6 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Vuforia" src="https://img.shields.io/badge/-Vuforia-0E2A47?style=flat-square&logo=vuforia&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
 </p>
