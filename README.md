@@ -3,7 +3,7 @@
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MyusiZ3&theme=dark&border_radius=4.9&card_width=465&card_height=196)](https://git.io/streak-stats)
-![Myusi's GitHub stats](https://github-readme-stats.vercel.app/api?username=myusiz3&show_icons=true&theme=radical)
+![Myusi's GitHub stats](https://readmestats-eta-sage.vercel.app/api?username=myusiz3&show_icons=true&theme=radical)
 
 
 ### 🛠️ When I Code, I Rely On
