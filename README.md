@@ -30,10 +30,18 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-2088FF?style=flat-square&logo=github&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Vuforia" src="https://img.shields.io/badge/-Vuforia-0E2A47?style=flat-square&logo=vuforia&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
+  <!-- New Badges for Adobe Photoshop, Adobe Illustrator, Figma, Wix Studio, Ibis Paint -->
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&color=007BFF" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white&color=FF5722" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white&color=D500F9" />
+  <img alt="Wix Studio" src="https://img.shields.io/badge/-Wix%20Studio-000000?style=flat-square&logo=wix&logoColor=white&color=FF5733" />
+  <img alt="Ibis Paint" src="https://img.shields.io/badge/-Ibis%20Paint-000000?style=flat-square&logo=ibis-paint&logoColor=white&color=2196F3" />
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+
+
 </p>
+
 
 ## 🌐 Connect with Me 🍬
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Im.myusi.z3) 
