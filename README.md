@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AD51&width=435&lines=Hi,+I'm+Muhamad+Sidik...)](https://git.io/typing-svg)
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AD51&width=435&lines=Hello+World!+I'm+Muhamad+Sidik+.+.+.)](https://git.io/typing-svg) 👋🏼  
+🛜 Currently studying **Multimedia Engineering Technology** at **Telkom University** (2022 - present)  
+👨🏼‍🎓 Undergraduate with a passion for **Game Development** and **App Development**  
+🎨 Skilled in **UI/UX Design**, bringing designs to life as a **Graphic Designer**  
+📱 Actively exploring new technologies and creating innovative solutions for digital experiences
 
 <h3>My GitHub contributions summary</h3>
 <div align="center" style="display: flex; justify-content: space-around; align-items: center;">
@@ -15,7 +21,7 @@
 
 
 
-### 🛠️ When I Code, I Rely On
+### 💻 Tech Stack, I Rely On
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
