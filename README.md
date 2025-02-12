@@ -1,15 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AD51&width=435&lines=Hi,+I'm+Muhamad+Sidik...)](https://git.io/typing-svg)
 
 <h3>My GitHub contributions summary</h3>
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-around; align-items: center;">
   
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MyusiZ3&theme=dark&card_width=465&card_height=196" />
   </a>
   <!--![Myusi's Public Repo stats](https://readmestats-eta-sage.vercel.app/api?username=myusiz3&show_icons=true&theme=radical)-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyusiZ3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" height="196" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyusiZ3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="30%" height="196" /> </br>
   
 </div>
+
 
 
 
