@@ -7,7 +7,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MyusiZ3&theme=dark&card_width=465&card_height=196" />
   </a>
   <!--![Myusi's Public Repo stats](https://readmestats-eta-sage.vercel.app/api?username=myusiz3&show_icons=true&theme=radical)-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyusiZ3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" height="196" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyusiZ3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%" height="196" /> </br>
   
 </div>
 
