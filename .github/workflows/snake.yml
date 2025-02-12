@@ -1,49 +1,42 @@
-
 name: GitHub Snake Game
 
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 0 * * *"  # Cron job untuk menjalankan setiap hari pada pukul 00:00 UTC
-
+    - cron: "0 0 * * *"
   # Allow manual triggering of the workflow
   workflow_dispatch:
-
   # Trigger the workflow on pushes to the main branch
   push:
     branches:
-      - main  # Workflow akan dijalankan ketika ada push ke cabang main
-
+      - main
 jobs:
   generate:
-    runs-on: ubuntu-latest  # Gunakan image Ubuntu terbaru
-    timeout-minutes: 15  # Waktu maksimal untuk pekerjaan ini adalah 15 menit
-
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       # Step 1: Checkout the repository
       - name: Checkout Repository
-        uses: actions/checkout@v3  # Mengambil salinan repository
-
+        uses: actions/checkout@v3
       # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          # GitHub username untuk generate animasi
+          # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
-
-          # Tentukan output files dan konfigurasi
+          # Define the output files and their configurations
           outputs: |
-            dist/github-snake.svg  # Output pertama: SVG animasi
-            dist/github-snake-dark.svg?palette=github-dark  # Output kedua: SVG dengan palet gelap
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9  # Output ketiga: GIF animasi
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token GitHub untuk otentikasi
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Token GitHub untuk otentikasi
-          publish_dir: ./dist  # Direktori tempat hasil animasi disimpan
-          publish_branch: output  # Cabang tempat hasil animasi akan dipublikasikan
-          commit_message: "Update snake animation [skip ci]"  # Pesan commit dengan [skip ci] untuk menghindari pemicu CI
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          # Optionally, you can set a custom commit message
+          commit_message: "Update snake animation [skip ci]"
