@@ -6,7 +6,7 @@
 🎨 Skilled in **UI/UX Design**, bringing designs to life as a **Graphic Designer**  
 📱 Actively exploring new technologies and creating innovative solutions for digital experiences
 
-<h3>My GitHub contributions summary</h3>
+<h3>My GitHub Contributions Summary</h3>
 <div align="center" style="display: flex; justify-content: space-around; align-items: center;">
   
   <a href="https://git.io/streak-stats">
