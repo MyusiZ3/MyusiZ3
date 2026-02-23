@@ -2,7 +2,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AD51&width=435&lines=Hello+World!+I'm+Muhamad+Sidik+.+.+.)](https://git.io/typing-svg)
 🛜 Currently studying **Multimedia Engineering Technology** at **Telkom University** (2022 - present)  
-👨🏼‍🎓 Undergraduate with a passion for **Game Development** and **App Development**  
+👨🏼‍🎓 Undergraduate with a passion for **Game Development** <!--!and **App Development**-->  
 🎨 Skilled in **UI/UX Design**, bringing designs to life as a **Graphic Designer**  
 📱 Actively exploring new technologies and creating innovative solutions for digital experiences
 
