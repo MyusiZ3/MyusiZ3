@@ -6,7 +6,13 @@
 🎨 Skilled in **UI/UX Design**, bringing designs to life as a **Graphic Designer**  
 📱 Actively exploring new technologies and creating innovative solutions for digital experiences
 
-[![Portfolio](https://img.shields.io/badge/View-My%20Portfolio-F7AD51?style=for-the-badge&logo=figma&logoColor=white)](https://bit.ly/imycreative)
+<!--[![Portfolio](https://img.shields.io/badge/View-My%20Portfolio-F7AD51?style=for-the-badge&logo=figma&logoColor=white)](https://bit.ly/imycreative)-->
+<p align="left">
+  <a href="https://bit.ly/imycreative">
+    <img src="https://img.shields.io/badge/View-My%20Portfolio-F7AD51?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=myusiz3&color=F7AD51&style=for-the-badge" />
+</p>
 
 <h3>My GitHub Contributions Summary</h3>
 <div align="center" style="display: flex; justify-content: space-around; align-items: center;">
