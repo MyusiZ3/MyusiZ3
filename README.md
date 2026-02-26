@@ -21,7 +21,7 @@
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=MyusiZ3&theme=dark&card_width=465)" />
   </a>
   <!--![Myusi's Public Repo stats](https://readmestats-eta-sage.vercel.app/api?username=myusiz3&show_icons=true&theme=radical)-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myusiz3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" height="196" /> </br>
+  <!--!<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myusiz3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" height="196" /> </br>-->
   
 </div>
 
