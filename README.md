@@ -21,7 +21,7 @@ Multimedia Engineering Technology graduate from **Telkom University** specializi
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=MyusiZ&theme=dark&card_width=465" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=MyusiZ3&theme=dark&card_width=465" alt="GitHub Streak Stats" />
   </a>
 </div>
 
