@@ -9,7 +9,7 @@ Multimedia Engineering Technology graduate from **Telkom University** specializi
 - **Current Pursuit**: Crafting high-performance web applications, exploring real-time graphics, and fine-tuning user interaction design.
 
 <p align="left">
-  <a href="https://creative-portfolio-theta-rosy.vercel.app" target="_blank">
+  <a href="mycreative.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/View-Live%20Portfolio-F7AD51?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=myusiz3&color=F7AD51&style=for-the-badge" alt="Profile Views" />
